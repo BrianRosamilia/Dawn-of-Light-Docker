@@ -9,11 +9,12 @@ MySQL docker container for [Dawn of Light DAOC Server](http://www.dolserver.net/
 
 ## Misc Commands
 
-* `.\DOLLoader "D:\Program Files (x86)\Electronic Arts\Dark Age of Camelot\game.dll" 127.0.0.1 10300 1 account pass`
+* `DOLLoader "D:\Program Files (x86)\Electronic Arts\Dark Age of Camelot\game.dll" 127.0.0.1 10300 1 account pass`
 
 * `update Account set privlevel = 3` (make yourself an admin)
 
 ## Misc Links
 
 * [Dawn of Light server on Github](https://github.com/Dawn-of-Light/DOLSharp)
-* [Devart Db Forge (To run single_file.sql against your container)](https://www.devart.com/dbforge/mysql/studio/)
+* [Devart dbForge Studio (To run single_file.sql against your container)](https://www.devart.com/dbforge/mysql/studio/)
+* [Admin Commands for Dawn of Light](http://www.dolserver.net/?page=wiki&view=34)
